@@ -1,0 +1,5 @@
+{
+  "name": "Wi-Fi Connector",
+  "description": "A sleek and modern UI that simulates connecting to available Wi-Fi networks without requiring a password for open networks.",
+  "requestFramePermissions": []
+}
